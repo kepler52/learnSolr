@@ -1,1 +1,2 @@
 # learnSolr
+learning solr today
