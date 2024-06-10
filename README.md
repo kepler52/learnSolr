@@ -7,4 +7,4 @@ still learning
 ## C language
 ```C
     printf("Hello world");
-    ```
+```
